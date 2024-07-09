@@ -3,6 +3,9 @@
 ## Setup Instructions
 
 1. Clone the repository:
+    repository-url = https://github.com/Rachael-Minage/money-transfer-api.git
+    repository-directory = paystream
+    
     ```bash
     git clone <repository-url>
     cd <repository-directory>
